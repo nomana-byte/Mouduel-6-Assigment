@@ -47,3 +47,4 @@ Merging combines changes from one branch into another branch.
 
 ## Merge Conflicts
 A merge conflict happens when two changes affect the same part of a file. You fix it by choosing which changes to keep.
+This project helped me learn how to use Git and GitHub.
