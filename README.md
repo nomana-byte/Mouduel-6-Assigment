@@ -10,7 +10,7 @@ This guide explains the basics of Git and GitHub and how to use them.
 
 I learned how to save changes, create branches, and use GitHub to manage a project.
 
-Video link:
+Video link: https://drive.google.com/file/d/1VUNWgJntr5_RYCBNXGH6IKfsiV_EdSSV/view?usp=sharing
 
 
 
